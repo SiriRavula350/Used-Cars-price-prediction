@@ -21,4 +21,5 @@ Used car dealers should consider vehicle year, mileage, condition, manufacturer,
 
 ## Notebook
 
-The complete analysis, including data cleaning, visualizations, regression modeling, evaluation, and recommendations, is available in the Jupyter Notebook.
+The complete analysis, including data cleaning, visualizations, regression modeling, evaluation, and recommendations, is available in the Jupyter Notebook:
+https://github.com/SiriRavula350/Used-Cars-price-prediction/blob/main/prompt_II-module11.ipynb
